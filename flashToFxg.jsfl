@@ -18,7 +18,7 @@ for(var i = 0; i<length; i++)
 	{
 		if(item.itemType == "button")
 		{
-		      //if it's a simple button, export 1st and 2nd frame
+			//if it's a simple button, export 1st and 2nd frame
 			library.editItem(item.name);
 			doc.exportFXG(url + items[i].linkageClassName+"Up.fxg");
 			item.timeline.currentFrame = 1;
