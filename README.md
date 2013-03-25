@@ -9,4 +9,6 @@ I made this script for assets creation in Firefly.
 
 Feel free to use it or modify it.
 
+Ps: to use a .jsfl file, go to : http://summitprojectsflashblog.wordpress.com/how-tos/installing-jsfl-scripts/
+
 Tibus
