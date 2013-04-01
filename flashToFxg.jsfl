@@ -69,8 +69,7 @@ for(var i = 0; i<length; i++)
 }
 
 doc.editScene(0);
-<<<<<<< HEAD
-=======
+
 doc.width = initialWidth;
 doc.height = initialHeight;
 
@@ -102,4 +101,4 @@ function logImports(name)
 	string += "\nimport ui."+name+";";
 	return string;
 }
->>>>>>> add dynamic width and height for every .fxg
+
